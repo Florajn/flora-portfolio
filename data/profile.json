@@ -1,0 +1,110 @@
+{
+  "name": "傅秀叶",
+  "title": "地编 / 关卡美术",
+  "avatar": "/uploads/1783265724183.png",
+  "logo_text": "Flora",
+  "job_target": "地编 / 关卡美术",
+  "phone": "15706604391",
+  "email": "3239813045@qq.com",
+  "courses": [
+    {
+      "name": "游戏技术基础"
+    },
+    {
+      "name": "三维建模技术"
+    },
+    {
+      "name": "产品设计项目实训"
+    },
+    {
+      "name": "程序设计与实践"
+    },
+    {
+      "name": "数据库系统原理与应用"
+    },
+    {
+      "name": "游戏项目策划"
+    },
+    {
+      "name": "虚拟现实应用与开发"
+    },
+    {
+      "name": "游戏引擎设计与开发"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "英语四六级证书"
+    },
+    {
+      "name": "计算机二级证书"
+    },
+    {
+      "name": "英语六级证书"
+    }
+  ],
+  "awards": [
+    {
+      "time": "2024-06",
+      "event": "全国大学生游戏设计大赛",
+      "award": "一等奖"
+    }
+  ],
+  "practices": [
+    {
+      "position": "场景编辑实习生",
+      "content": "参与游戏场景搭建与关卡美术制作",
+      "result": "独立完成3个场景的搭建与光照氛围制作"
+    }
+  ],
+  "motto": "常怀求学之心，深耕场景美术；",
+  "resume_pdf": "",
+  "wechat": "ohhsehunly",
+  "intro_subtitle": "不止于想，更成于玩。",
+  "expertise_tags": "场景搭建,地形编辑,光照氛围,关卡美术",
+  "software_skills": "UE5,Unity,Blender,3DS MAX\n",
+  "project_overview": "具备完整的场景编辑与关卡美术制作经验，从白模搭建到成品打磨，擅长场景搭建与光照氛围营造，熟悉UE5与Unity场景制作流程。",
+  "evaluation": "地编视角看场景，玩家心态验氛围。具备良好的抗压能力，能在项目周期内稳定产出场景内容，持续拆解优秀场景并沉淀制作经验。",
+  "bilibili_url": "https://space.bilibili.com/616044442",
+  "skill_groups": [
+    {
+      "title": "地编能力",
+      "items": [
+        "场景搭建",
+        "地形编辑",
+        "光照氛围",
+        "关卡美术",
+        "布局规划",
+        "资产整合"
+      ]
+    },
+    {
+      "title": "软件工具",
+      "items": [
+        "UE5",
+        "Unity",
+        "Blender",
+        "Substance Painter",
+        "World Creator",
+        "Quixel Mixer"
+      ]
+    },
+    {
+      "title": "附加能力",
+      "items": [
+        "场景概念设计",
+        "氛围参考整合",
+        "场景漫游视频",
+        "资产清单管理"
+      ]
+    }
+  ],
+  "education": {
+    "school": "本科",
+    "major": "数字媒体专业",
+    "date": "2024 - 2028"
+  },
+  "skills": "",
+  "qualities": "学习能力强,耐心细致,审美在线,抗压能力,团队协作,自驱力强,乐于分享",
+  "hobbies": "摄影,独立游戏,看展,电影,手绘,徒步"
+}
