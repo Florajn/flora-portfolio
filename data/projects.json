@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "古蜀寻忆",
-    "cover_image": "/uploads/1788706114849.png",
+    "cover_image": "/uploads/1788706114849.webp",
     "project_type": "科普漫游",
     "role": "程序",
     "engine": "Unity",
@@ -16,7 +16,7 @@
     "challenges": "问题：四大场景递进逻辑复杂，玩家容易因收集进度不足导致卡关\n解决：设计“碎片收集进度条”实时反馈系统，解锁条件透明化展示，配合场景传输UI引导\n成果：玩家通关流畅度提升，流程推进清晰无卡顿",
     "review": "不足： 文物科普内容呈现方式单一，部分玩家反馈打断探索沉浸感\n改进： 优化为轻量化弹窗设计，支持点击自动收起\n收获： 掌握了国风文化题材游戏的四层架构设计方法论与关卡递进链路规划",
     "attribution": "全部原创",
-    "sections": "[{\"title\":\"responsibilities_images\",\"content\":\"\",\"images\":[\"/uploads/1788709268970-屏幕截图 2026-06-16 234342.png\",\"/uploads/1788709269009-屏幕截图 2026-06-16 234634.png\",\"/uploads/1788709292725-屏幕截图 2026-06-23 111708.png\"]},{\"title\":\"visual_materials_images\",\"content\":\"\",\"images\":[\"/uploads/1788709906291-2.png\",\"/uploads/1788709906309-7e2a8dce91e9dac9485ddb185edd3144.png\",\"/uploads/1788709906364-黑红金色中国风悟空演示2.png\",\"/uploads/1788709906378-黑红金色中国风悟空演示文稿.png\"]},{\"title\":\"project_files_images\",\"content\":\"\",\"images\":[\"/uploads/1788742670383-游戏展板.zip\"]},{\"title\":\"demo\",\"content\":\"\",\"images\":[]}]",
+    "sections": "[{\"title\":\"responsibilities_images\",\"content\":\"\",\"images\":[\"/uploads/1788709268970-屏幕截图 2026-06-16 234342.webp\",\"/uploads/1788709269009-屏幕截图 2026-06-16 234634.webp\",\"/uploads/1788709292725-屏幕截图 2026-06-23 111708.webp\"]},{\"title\":\"visual_materials_images\",\"content\":\"\",\"images\":[\"/uploads/1788709906291-2.webp\",\"/uploads/1788709906309-7e2a8dce91e9dac9485ddb185edd3144.webp\",\"/uploads/1788709906364-黑红金色中国风悟空演示2.webp\",\"/uploads/1788709906378-黑红金色中国风悟空演示文稿.webp\"]},{\"title\":\"project_files_images\",\"content\":\"\",\"images\":[\"/uploads/1788742670383-游戏展板.zip\"]},{\"title\":\"demo\",\"content\":\"\",\"images\":[]}]",
     "created_at": "2026-07-05T16:00:54.534Z",
     "updated_at": "2026-09-14T11:58:49.516Z",
     "project_date": "2026-05-01",
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "title": "暗影突击",
-    "cover_image": "/uploads/1789206631541-8k_earth_daymap.jpg",
+    "cover_image": "/uploads/1789206631541-8k_earth_daymap.webp",
     "project_type": "FPS",
     "role": "程序",
     "engine": "UE5",
